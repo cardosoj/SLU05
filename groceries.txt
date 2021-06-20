@@ -3,3 +3,4 @@ cheese
 paper
 butter
 eggs
+Peanut butter
